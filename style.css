@@ -14,7 +14,7 @@ html, body {
 
 @media only screen and (max-width: 800px) {
   .content {
-	margin: 2% auto 5% auto;
+	margin: 5% auto 5% auto;
     width: 90%;
   }
 }
@@ -113,6 +113,3 @@ a:active {
   color:#737378;
   text-decoration: underline;
 }
-
-
-

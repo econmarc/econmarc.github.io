@@ -19,31 +19,31 @@ html, body {
   }
 }
 
-/* Load Lato fonts */
+/* Load Alegreya Sans fonts */
 
 @font-face {
-  font-family: "Lato";
+  font-family: "Alegreya Sans";
   src: url("AlegreyaSans-Regular.ttf");
   font-weight: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Lato";
+  font-family: "Alegreya Sans";
   src: url("AlegreyaSans-Bold.ttf");
   font-weight: bold;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Lato";
+  font-family: "Alegreya Sans";
   src: url("AlegreyaSans-Italic.ttf");
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Lato";
+  font-family: "Alegreya Sans";
   src: url("AlegreyaSans-BoldItalic.ttf");
   font-weight: bold;
   font-style: italic;
@@ -60,7 +60,7 @@ i, em, b, strong {
 }
 
 h1 {
-  font-family: Lato, sans-serif;
+  font-family: "Alegreya Sans", sans-serif;
   font-size: 2.5rem;
   margin: 0;
   padding: 0;
@@ -68,12 +68,12 @@ h1 {
 }
 
 h2, h3, h4, h5, h6 {
-  font-family: Lato, sans-serif;
+  font-family: "Alegreya Sans", sans-serif;
   font-weight: bold;
 }
 
 p, ul {
-  font-family: Lato, sans-serif;
+  font-family: "Alegreya Sans", sans-serif;
   font-size: 1.25rem;
   line-height: 1.5;
   margin-top: 1.25rem;
@@ -88,7 +88,7 @@ hr {
   border: 0;
   height: 2px;
   background-image: linear-gradient(to right, #18453B, #FFFFFF);
-  width: 225px;
+  width: 200px;
   margin: 0;
   padding: 0;
 }

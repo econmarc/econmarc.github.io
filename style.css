@@ -23,28 +23,28 @@ html, body {
 
 @font-face {
   font-family: "Lato";
-  src: url("Lato-Regular.ttf");
+  src: url("AlegreyaSans-Regular.ttf");
   font-weight: normal;
   font-display: swap;
 }
 
 @font-face {
   font-family: "Lato";
-  src: url("Lato-Bold.ttf");
+  src: url("AlegreyaSans-Bold.ttf");
   font-weight: bold;
   font-display: swap;
 }
 
 @font-face {
   font-family: "Lato";
-  src: url("Lato-Italic.ttf");
+  src: url("AlegreyaSans-Italic.ttf");
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
   font-family: "Lato";
-  src: url("Lato-BoldItalic.ttf");
+  src: url("AlegreyaSans-BoldItalic.ttf");
   font-weight: bold;
   font-style: italic;
   font-display: swap;

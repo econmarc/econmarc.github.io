@@ -8,7 +8,7 @@ html, body {
 /* Size content */
 
 .content {
-  margin: 2% 10% 5% 20%;
+  margin: 2% 5% 5% 10%;
   width: 50rem;
 }
 
@@ -86,8 +86,6 @@ p, ul {
 
 .soon {
   font-size: 2rem;
-  font-weight: bold;
-  font-style: italic;
 }
 
 hr {

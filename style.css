@@ -85,7 +85,9 @@ p, ul {
 }
 
 .soon {
-  font-size: 2.5rem;
+  font-size: 2rem;
+  font-weight: bold;
+  font-style: italic;
 }
 
 hr {

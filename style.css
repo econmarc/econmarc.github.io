@@ -8,12 +8,13 @@ html, body {
 /* Size content */
 
 .content {
-  margin: 5%;
+  margin: 2% auto 5% auto;
   width: 50rem;
 }
 
 @media only screen and (max-width: 800px) {
   .content {
+    margin: 5%;
     width: 90%;
   }
 }

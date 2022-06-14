@@ -94,9 +94,8 @@ hr {
   height: 2px;
   background-image: linear-gradient(to right, #FFFFFF, #18453B, #FFFFFF);
   width: 200px;
-  margin: 0;
+  margin: auto;
   padding: 0;
-  text-align: center;
 }
 
 /* Style content links */

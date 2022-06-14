@@ -65,6 +65,7 @@ h1 {
   margin: 0;
   padding: 0;
   font-weight: bold;
+  text-align: center;
 }
 
 h2, h3, h4, h5, h6 {
@@ -91,7 +92,7 @@ p, ul {
 hr {
   border: 0;
   height: 2px;
-  background-image: linear-gradient(to right, #18453B, #FFFFFF);
+  background-image: linear-gradient(to right, #FFFFFF, #18453B, #FFFFFF);
   width: 200px;
   margin: 0;
   padding: 0;
